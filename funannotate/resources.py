@@ -205,7 +205,7 @@ DBURL = {
     "pfam-log": "https://ftp.ebi.ac.uk/pub/databases/Pfam//current_release/Pfam.version.gz",
     "outgroups": "https://osf.io/r9sne/download?version=1",
     "repeats": "https://osf.io/vp87c/download?version=1",
-    "go-obo": "http://purl.obolibrary.org/obo/go.obo",
+    "go-obo": "https://current.geneontology.org/ontology/go.obo",
     "mibig": "https://dl.secondarymetabolites.org/mibig/mibig_prot_seqs_1.4.fasta",
     "interpro": "https://ftp.ebi.ac.uk/pub/databases/interpro/interpro.xml.gz",
     "gene2product": "https://raw.githubusercontent.com/nextgenusfs/gene2product/master/ncbi_cleaned_gene_products.txt",
